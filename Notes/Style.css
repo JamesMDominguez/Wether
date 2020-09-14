@@ -1,0 +1,49 @@
+
+  
+  body {
+    background-color: lightblue;
+  }
+
+  #box{
+    margin: 5%;
+    padding: 3%;
+    background-color:whitesmoke;
+  }
+
+  #sticky{
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    margin: 1%;
+    display: inline-block;
+    background-color:#FFFF88;
+    word-wrap: break-word;
+    box-shadow:10px 10px rgb(206, 206, 206);
+  }
+
+  textarea{
+    width: 340px;
+    height: 100px;
+    padding: 15px;
+    margin: 1%;
+    display: inline-block;
+    background-color:#FFFF88;
+    word-wrap: break-word;
+    box-shadow:10px 10px rgb(206, 206, 206);
+  }
+
+ #button{
+    background-color: rgb(75, 111, 190);
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 56px;
+    width: 100%;
+    margin: 15px; 
+}
+
+#title{
+  text-align: center;
+  background-color: #FFFF88;
+  padding: 1%
+}
